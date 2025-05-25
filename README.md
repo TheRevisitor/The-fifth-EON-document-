@@ -1,5 +1,7 @@
 # FUCK RIO / DAVID
-I'm gonna let the world see the kind of man you actually are.
+I'm gonna let the world see the kind of man you actually are. (Loved the solaris doc btw)
+
+![image](https://github.com/user-attachments/assets/437acc80-5179-4493-b1a2-5938572fe5cc)
 
 ![car](https://github.com/user-attachments/assets/b6e01a28-5a83-4c9b-8342-285427be0d2d)
 
