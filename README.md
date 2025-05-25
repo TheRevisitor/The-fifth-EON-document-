@@ -3,8 +3,9 @@ I'm gonna let the world see the kind of man you actually are. (Loved the solaris
 
 ![image](https://github.com/user-attachments/assets/437acc80-5179-4493-b1a2-5938572fe5cc)
 
-![car](https://github.com/user-attachments/assets/b6e01a28-5a83-4c9b-8342-285427be0d2d)
+![image](https://github.com/user-attachments/assets/986be154-6cce-4889-95fb-a6fa23cc0137)
 
+![car](https://github.com/user-attachments/assets/b6e01a28-5a83-4c9b-8342-285427be0d2d)
 
 **This doc is not completed yet. In the meantime you can check these ones out!** (the doc is only the beginning btw).
 
