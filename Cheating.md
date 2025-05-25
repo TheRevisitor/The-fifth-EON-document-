@@ -1,4 +1,5 @@
 # How to Cheat on EON
+*ill update this more later*
 This page will also contain reverse engineering done by me and a couple people on EON.
 
 ## Setup
