@@ -3,32 +3,18 @@
 This page will also contain reverse engineering done by me and a couple people on EON.
 
 ## Setup
-You will need to have some sort of coding knowledege.
+STEP 1: put "GFSDK_Aftermath_Lib.x64.dll" in D:/PathToFortniteBuild + \Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64 (IMPORTANT)
+STEP 2: change config.ini to your fortnite path and email/pass
+STEP 3: when fortnite launched it will output some json you have to make a auto reply rule in http debugger (how to do it is below)
 
-Eon uses a custom /account/api/oauth/token request from epic games api to the momentum instance they run. For eon it is /v2/account/api/login/token
+Download https://www.httpdebugger.com/
+Open it and click on "Auto Reply" at the top > Add Rule > 200 OK
 
-You will need to get a auth token via that request, then you can start by making a websocket instance and connect to the EON Matchmaker: ws://45.87.172.39:2999
+should look like the screenshots below (what goes in content is what the launcher sends you)
 
-To connect to the eon matchmaker you will need these headers
+then launch fortnite and you're good (if it doesnt work dont ask me for help)
 
-``      headers: {
-        Authorization: "Epic-Signed mms-player account <accountid> <putplaylisthere> <putregionhere> c4c663648a35ada9e078ccdb9e64ccd 96EEAC72CAD7CD00",
-        "Sec-WebSocket-Protocol": "ws",
-        Pragma: "no-cache",
-      }
-``
+join this server https://discord.gg/p3tFh7yz
 
-Now you can create a status event .on("message") if the message contains Play in the message.name you can use the message.payload.sessionId to send a request to services.eonfn.dev/fortnite/api/matchmaking/session/:sessionId
-
-with headers 
-
-``
-        {
-          headers: {
-            Authorization: `bearer ${tokenfromearlier}`,
-            "X-Epic-Correlation-ID": CONFIG.CORRELATION_ID,
-            "User-Agent":
-              "Fortnite/++Fortnite+Release-12.41-CL-12905909 Windows/10.0.26100.1.256.64bit",
-          },
-``
+and when a game goes up do "open ip:port" in console (F8 to open console)
 
