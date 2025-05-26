@@ -14,7 +14,5 @@ should look like the screenshots below (what goes in content is what the launche
 
 then launch fortnite and you're good (if it doesnt work dont ask me for help)
 
-join this server https://discord.gg/p3tFh7yz
-
 and when a game goes up do "open ip:port" in console (F8 to open console)
 
