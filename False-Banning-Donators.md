@@ -28,3 +28,10 @@ Credits to @goofyvangoated
 ![image](https://github.com/user-attachments/assets/97d460d7-3aca-4324-935e-35e1006c336a)
 
 ![image](https://github.com/user-attachments/assets/8835e539-d953-465d-aa4e-1cbc5dbb18f5)
+
+
+# TIKTOK COMMENTS
+
+![image](https://github.com/user-attachments/assets/6bc3f479-ff4b-416b-b857-3912f73ea06a)
+
+![image](https://github.com/user-attachments/assets/8e99761a-63eb-4f78-9a9a-ca2c22427c94)
