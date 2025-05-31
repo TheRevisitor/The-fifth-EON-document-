@@ -76,7 +76,7 @@ https://gofile.io/d/jM33uE
 
 ![image](https://github.com/user-attachments/assets/ac30f20e-d786-489a-8e0e-ede0eaf57768)
 
-![image](https://github.com/user-attachments/assets/bcdeb921-c9d1-4d21-8104-51fbc4398e90)
+![rn_image_picker_lib_temp_f51015ed-0993-4230-94ab-654a0055c440](https://github.com/user-attachments/assets/a8be798f-4a4b-4315-aead-d8ab54bda81d)
 
 
 
