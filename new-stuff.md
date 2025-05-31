@@ -66,5 +66,12 @@ ALSO, tried to manipulate him into quitting his own project for eon.
 
 https://gofile.io/d/jM33uE
 
+# Deleting old DMS
+
+![image](https://github.com/user-attachments/assets/cfe73538-4a27-4391-8914-0b2548a6809e)
+
+![image](https://github.com/user-attachments/assets/c0d10de2-b77f-4726-b29f-ecefe9ef926e)
+
+
 
 # THIS PAGE IS INCOMPLETE, I AM WORKING ON ADDING MORE.
