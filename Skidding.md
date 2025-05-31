@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/f288d346-1d52-4b24-ac3a-1583bbed939b)
 
 
-# Usage of AI for code 
+# Usage of AI for code (Owner of a server with 60k members btw)
 
 ![togif](https://github.com/user-attachments/assets/9e28fdda-0034-4168-b783-15fe2055345c)
 
