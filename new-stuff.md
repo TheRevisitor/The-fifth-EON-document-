@@ -72,6 +72,12 @@ https://gofile.io/d/jM33uE
 
 ![image](https://github.com/user-attachments/assets/c0d10de2-b77f-4726-b29f-ecefe9ef926e)
 
+# wow
+
+![image](https://github.com/user-attachments/assets/ac30f20e-d786-489a-8e0e-ede0eaf57768)
+
+![image](https://github.com/user-attachments/assets/bcdeb921-c9d1-4d21-8104-51fbc4398e90)
+
 
 
 # THIS PAGE IS INCOMPLETE, I AM WORKING ON ADDING MORE.
