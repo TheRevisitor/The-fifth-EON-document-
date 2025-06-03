@@ -15,6 +15,6 @@ These screenshots were from an old video where he was "recoding the launcher sou
 
 ![image](https://github.com/user-attachments/assets/2a8aeca4-602f-4929-8398-428ff2ad7d10)
 
-I've seem this image in a lot of servers too.
+I've seen this image in a lot of servers too.
 
 ![image](https://github.com/user-attachments/assets/a1489557-17ea-4472-b4d8-59fa6c7ad594)
