@@ -6,6 +6,9 @@ You can translate this if you want, it basically says that the order was complet
 
 ![image](https://github.com/user-attachments/assets/a17f30d4-1dcc-46c7-b964-2f868f355c7a)
 
+Credits to @re4pergg
+
+![image](https://github.com/user-attachments/assets/220d2b58-cee7-4fdf-bb1c-63f9806cf017)
 
 
 Credits to @septbr
