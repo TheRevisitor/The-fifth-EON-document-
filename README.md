@@ -9,8 +9,6 @@ I'm gonna let the world see the kind of man you actually are. (Loved the solaris
 
 ![car](https://github.com/user-attachments/assets/b6e01a28-5a83-4c9b-8342-285427be0d2d)
 
-**This doc is not completed yet. In the meantime you can check these ones out!** (the doc is only the beginning btw).
-
 Made by @cryptictag
 https://mystyyy.github.io/exposure/index.html
 
