@@ -26,4 +26,4 @@ Another experienced reverse engineer has found many encrypted strings in eon's d
 
 <img width="1540" height="378" alt="91A16BA2-DCC3-498B-A65C-E5BB189D9B86" src="https://github.com/user-attachments/assets/20fe32ed-93a9-4a5b-9d7f-4a0c3c0a5a31" />
 
-there are many reasons why these could have been encrypted but judging by the situation, he's trying to hide something.
+there are many reasons to why these could have been encrypted but judging by the situation, he's trying to hide something.
