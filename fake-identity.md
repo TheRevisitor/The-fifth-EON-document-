@@ -1,1 +1,19 @@
+Rio, the owner of Eon, is also the same person as "David" — something he has openly admitted in the past. However, now he’s suddenly claiming that Rio and David are two different people?
+
+Below are screenshots showing him contradicting himself — first admitting they’re the same person, then later denying it.
+
+
+<img width="216" height="83" alt="image" src="https://github.com/user-attachments/assets/ba1b649c-22ee-45e3-a5ae-399474005c42" />
+
+
+<img width="229" height="85" alt="image" src="https://github.com/user-attachments/assets/e48d87dc-111b-4f8c-8804-bd9e1ca8a3a8" />
+
+
+<img width="1156" height="882" alt="image" src="https://github.com/user-attachments/assets/86075437-5373-4da1-a6d9-1fc569cfbd9c" />
+
+
+# ???
+
+
+<img width="1171" height="262" alt="image" src="https://github.com/user-attachments/assets/aef87185-97bd-4560-8bb6-68b8087e89f4" />
 
