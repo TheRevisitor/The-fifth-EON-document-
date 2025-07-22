@@ -17,6 +17,9 @@ He gave no credits for using his code, basically claiming it as his own.
 
 <img width="1202" height="308" alt="Στιγμιότυπο οθόνης 2025-07-22 234845" src="https://github.com/user-attachments/assets/721d9a1d-96c4-4cde-a304-cdbd8a4eb5fa" />
 
+he stole the code from something that is very simple to make.
+
+# moving to older stuff
 
 # You can see this guy has no idea what he's doing.
 ![image](https://github.com/user-attachments/assets/f288d346-1d52-4b24-ac3a-1583bbed939b)
