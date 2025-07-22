@@ -1,6 +1,6 @@
 # There's gonna be a huge second cheating wave on eon since Rio didn't learn anything from the first, he knows that everything that happened before was because of his wrong doings but did nothing to change.
 
-You can see that due to the fact that he still made fun of someone's mom who has cancer and also tried to nuke project crystal (most likely it was going way better than eon)
+You can see that due to the fact that he still made fun of someone's mom who has cancer and also tried to nuke project crystal (most likely because it was going way better than eon)
 
 # Clear proof:
 
