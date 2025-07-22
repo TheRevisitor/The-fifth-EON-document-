@@ -2,6 +2,12 @@
 
 ![image](https://github.com/user-attachments/assets/2a47df14-f13f-4491-a60b-18a571e3c8d1)
 
+# Rio made fun of someones mom for having cancer, there's more about this that I will be adding soon.
+
+https://github.com/user-attachments/assets/ae9cb6b9-9140-49ff-a7e1-77747171d963
+
+this is honestly disgusting and beyond inappropriate — making fun of something so serious crosses a major line.
+
 # Rio being racist to his staff (as always)
 
 ![Screenshot_20250521-160819_Discord](https://github.com/user-attachments/assets/948f8a30-d3f3-4e9d-b901-ef6de9774255)
