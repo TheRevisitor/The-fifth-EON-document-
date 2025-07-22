@@ -24,6 +24,11 @@ Former eon staff admitting that its the same person
 
 <img width="500" height="381" alt="image" src="https://github.com/user-attachments/assets/f02b2399-1ac4-4821-b90e-cfd83623ceed" />
 
+He said it himself
+
+
+<img width="585" height="125" alt="image" src="https://github.com/user-attachments/assets/4cba2fb1-2c63-4893-aa16-b04646c5fe53" />
+
 
 # He is clearly acting like they are different.
 
