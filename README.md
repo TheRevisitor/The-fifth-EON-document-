@@ -1,5 +1,4 @@
-# FUCK RIO / DAVID <img width="280" height="280" alt="129226439" src="https://github.com/user-attachments/assets/d67bde6a-0772-4f6a-9cda-441ee54855d3" />
-
+# FUCK RIO / DAVID
 I'm gonna let the world see the kind of man you actually are. (Loved the solaris doc btw)
 
 ![image](https://github.com/user-attachments/assets/437acc80-5179-4493-b1a2-5938572fe5cc)
