@@ -20,6 +20,11 @@ Below are screenshots showing him contradicting himself — first admitting they
 
 <img width="513" height="120" alt="image" src="https://github.com/user-attachments/assets/283863f4-5dbd-4fbb-9d92-ffaaeaff71ce" />
 
+Former eon staff admitting that its the same person
+
+<img width="500" height="381" alt="image" src="https://github.com/user-attachments/assets/f02b2399-1ac4-4821-b90e-cfd83623ceed" />
+
+
 # He is clearly acting like they are different.
 
 <img width="1171" height="262" alt="image" src="https://github.com/user-attachments/assets/aef87185-97bd-4560-8bb6-68b8087e89f4" />
