@@ -5,9 +5,11 @@
 
 
 (Wiks's)
+
 <img width="849" height="886" alt="image" src="https://github.com/user-attachments/assets/4b2549b9-62c3-4e8f-9418-a4513bcc13bb" />
 
 (Rio's)
+
 <img width="868" height="397" alt="image" src="https://github.com/user-attachments/assets/229b0ab5-53a2-4f80-a7a3-01f0e6dddd30" />
 
 He gave no credits for using his code, basically claiming it as his own.
