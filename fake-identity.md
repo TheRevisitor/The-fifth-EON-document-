@@ -9,7 +9,7 @@ Below are screenshots showing him contradicting himself — first admitting they
 <img width="229" height="85" alt="image" src="https://github.com/user-attachments/assets/e48d87dc-111b-4f8c-8804-bd9e1ca8a3a8" />
 
 
-<img width="1156" height="882" alt="image" src="https://github.com/user-attachments/assets/86075437-5373-4da1-a6d9-1fc569cfbd9c" />
+<img width="1156" height="882" alt="image" src="https://github.com/user-attachments/assets/61d7e981-28ab-46e0-8102-9a7d2bcfc674" />
 
 
 # ???
