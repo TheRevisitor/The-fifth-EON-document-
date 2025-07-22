@@ -16,6 +16,7 @@ Below are screenshots showing him contradicting himself — first admitting they
 
 <img width="739" height="390" alt="image" src="https://github.com/user-attachments/assets/23aa2ae2-3354-49b0-aa3f-7b241c1da0ca" />
 
+# He is clearly acting like they are different.
 
 <img width="1171" height="262" alt="image" src="https://github.com/user-attachments/assets/aef87185-97bd-4560-8bb6-68b8087e89f4" />
 
