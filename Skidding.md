@@ -28,7 +28,7 @@ he stole the code for something that is very simple to make, Implying that he do
 ![image](https://github.com/user-attachments/assets/f288d346-1d52-4b24-ac3a-1583bbed939b)
 
 
-# Usage of AI for code (Owner of a server with 60k members btw)
+# Usage of AI for code (Owner of a server with 70k members btw)
 
 ![togif](https://github.com/user-attachments/assets/9e28fdda-0034-4168-b783-15fe2055345c)
 
