@@ -51,6 +51,10 @@ I'll update this if Alby finds the screenshots
 
 ![image](https://github.com/user-attachments/assets/eb89d328-712c-448e-a3e4-9c7d06fe0346)
 
+# Rio admitting that eon is a retrac copy, this was later turned to a sticker in retrac possibly meaning that he was clowned for saying that
+
+<img width="457" height="156" alt="image" src="https://github.com/user-attachments/assets/e56823fa-662d-4b2d-8d04-2c8244d5cbd2" />
+
 
 # Rio making fun of the rewind owner (PrivateUser)
 
