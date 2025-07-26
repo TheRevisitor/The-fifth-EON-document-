@@ -8,6 +8,8 @@ You can see that due to the fact that he still made fun of someone's mom who has
 <img width="456" height="424" alt="image" src="https://github.com/user-attachments/assets/0e9f63a5-cfbf-473a-846b-8cc2d0a6aed0" />
 
 
+
+
 <img width="457" height="676" alt="image" src="https://github.com/user-attachments/assets/982e5a22-0945-4f11-9d3f-61bc8de842f7" />
 
 
