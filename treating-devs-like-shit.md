@@ -3,7 +3,7 @@
 just take a look at this.
 
 
-# BENGIO_10 (JUST LEFT THE TEAM, WONDER WHY)
+# BENGIO_10
 Here's Rio treating bengio10 (custom weapon modder) like shit 
 
 ![bengio](https://github.com/user-attachments/assets/062e8f2d-4541-4a1f-927c-cd910fe8b3e4)
