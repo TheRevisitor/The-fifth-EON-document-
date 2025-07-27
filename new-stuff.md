@@ -90,6 +90,12 @@ https://gofile.io/d/jM33uE
 
 ![rn_image_picker_lib_temp_f51015ed-0993-4230-94ab-654a0055c440](https://github.com/user-attachments/assets/a8be798f-4a4b-4315-aead-d8ab54bda81d)
 
+# Rio deleted all messages in his old OGFN project named Exit. He also changed his Discord display name and profile picture. This might indicate an Exit comeback since we've ruined Eon's reputation.
+
+<img width="1591" height="948" alt="image" src="https://github.com/user-attachments/assets/3580d799-26f2-41ac-84f8-4ab4261f66df" />
+
+<img width="406" height="419" alt="image" src="https://github.com/user-attachments/assets/1b035f48-7bd0-4ba7-ad74-f048d6312ab6" />
+
 
 
 # THIS PAGE IS INCOMPLETE, I AM WORKING ON ADDING MORE.
