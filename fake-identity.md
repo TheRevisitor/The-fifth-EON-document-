@@ -34,7 +34,7 @@ He said it himself
 
 <img width="1171" height="262" alt="image" src="https://github.com/user-attachments/assets/aef87185-97bd-4560-8bb6-68b8087e89f4" />
 
-in here he is saying he and david ignore whole community, BUT THEY ARE THE SAME PERSON!
+in here he is saying that he and david are ignoring whole community, but as you saw, they are the same person
 
 <img width="775" height="238" alt="image" src="https://github.com/user-attachments/assets/64f0c496-09cd-44c5-a0b9-848eeaf5a76b" />
 
