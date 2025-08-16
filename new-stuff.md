@@ -96,6 +96,9 @@ https://gofile.io/d/jM33uE
 
 <img width="406" height="419" alt="image" src="https://github.com/user-attachments/assets/1b035f48-7bd0-4ba7-ad74-f048d6312ab6" />
 
+Okay, basically rio reverted this and he is back as rio but lets keep that img in there just for the meme. (you see in the photo)
+
+<img width="413" height="403" alt="image" src="https://github.com/user-attachments/assets/1efbc59d-f45e-44fe-b21d-f6220b54ff13" />
 
 
 # THIS PAGE IS INCOMPLETE, I AM WORKING ON ADDING MORE.
